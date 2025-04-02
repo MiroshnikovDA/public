@@ -43,7 +43,7 @@ import random
 # b = random.randint(0, 1)
 # print (("Орел")) if b > 0 else print(("Решка"))
 
-# n = int(input("Введите количество попыток бросков"))
+# n = int(input("Введите количество по пыток бросков"))
 # print(*["Орёл" if random.randint(0,1) else "Решка" for i in range(n)],sep="\n")
 
 # n = int(input("Введите количество бросков"))
